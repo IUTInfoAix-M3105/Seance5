@@ -7,7 +7,8 @@
 
 * Le support du cours est disponible [ici](https://github.com/IUTInfoAix-M3105/Ressources)
 * Le [forum Piazza](https://piazza.com/univ-amu.fr/fall2017/m3105/home) de ce cours pour poser vos questions
-* Pour faire le fork correctement vous devez accepter l'affectation sur GitHub Classroom : https://classroom.github.com/a/VLBRwswM
+* Pour faire le fork correctement vous devez accepter l'affectation sur GitHub Classroom : https://classroom.github.com/a/n8r7t5iV
+
 * La date limite de rendu sur GitHub est fixée au 12 novembre 2017 à 23h00
 
 ### Instructions
