@@ -2,10 +2,10 @@
 
 ### IUT d’Aix-Marseille – Département Informatique Aix-en-Provence
 
-# Séance 5 : Patrons de conception (Visiteur)
+# TP3 (séance 5) : Patrons de conception (Visiteur)
 
 
-* Le support du cours est disponible [ici](https://github.com/IUTInfoAix-M3105/Ressources)
+* Le support du cours est disponible sur l'ENT
 * Le [forum Piazza](https://piazza.com/univ-amu.fr/fall2017/m3105/home) de ce cours pour poser vos questions
 * Pour faire le fork correctement vous devez accepter l'affectation sur GitHub Classroom : https://classroom.github.com/a/n8r7t5iV
 
